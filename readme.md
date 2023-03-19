@@ -1,1 +1,1 @@
-# This is a repository of my Data Science Journey 
+# My Data Science Journey 
